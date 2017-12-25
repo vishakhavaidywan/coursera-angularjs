@@ -1,5 +1,5 @@
 (function () {
-    'use strict';
+    'use strict'; // this is a change for git demo
     angular.module("NameCalculator", [])
     .controller('NameCalculatorCtrl', function ($scope) {
         $scope.name = '';
